@@ -33,7 +33,6 @@
                                 <option value=1>Enabled</option>
                                 <option value=0>Disabled</option>
                             </select>
-
                          </div>
                           <div class="flex items-center justify-end px-4 py-3 bg-gray-50 text-right sm:px-6">
                             <button
@@ -41,8 +40,7 @@
                             >Aceptar</button>
                             <!-- <button @click.prevent="destroy" class="float-right bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-md">Eliminar</button> -->
                           </div>
-						
-						
+			
                     </div>
                     </form>
             </div>
